@@ -1,0 +1,6 @@
+ipykernel==6.29.5
+ipython==9.3.0
+tensorflow==2.19.0
+tensorflow-datasets==4.9.9
+tensorflow-examples @ git+https://github.com/tensorflow/examples.git@3c7435733a9162481df350e57c53e58d2a705e4d
+matplotlib==3.10.3
